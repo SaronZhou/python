@@ -1,0 +1,68 @@
+1234.0,John Smith,100-0002,1200,2013-01-01,sales_2013.xlsx,january_2013
+2345.0,Mary Harrison,100-0003,1425,2013-01-06,sales_2013.xlsx,january_2013
+4567.0,Rupert Jones,100-0005,1257,2013-01-18,sales_2013.xlsx,january_2013
+6789.0,Samantha Donaldson,100-0007,1995,2013-01-31,sales_2013.xlsx,january_2013
+1234.0,John Smith,100-0014,1350,2013-03-04,sales_2013.xlsx,march_2013
+2345.0,Mary Harrison,100-0016,1789,2013-03-17,sales_2013.xlsx,march_2013
+1234.0,John Smith,100-0002,345,2014-01-01,sales_2014.xlsx,january_2014
+2345.0,Mary Harrison,100-0003,67576,2014-01-06,sales_2014.xlsx,january_2014
+4567.0,Rupert Jones,100-0005,67876,2014-01-18,sales_2014.xlsx,january_2014
+6789.0,Samantha Donaldson,100-0007,58,2014-01-31,sales_2014.xlsx,january_2014
+1234.0,John Smith,100-0014,123,2014-03-04,sales_2014.xlsx,march_2014
+2345.0,Mary Harrison,100-0016,56756,2014-03-17,sales_2014.xlsx,march_2014
+1234.0,John Smith,100-0002,123,2015-01-01,sales_2015.xlsx,january_2015
+2345.0,Mary Harrison,100-0003,543,2015-01-06,sales_2015.xlsx,january_2015
+4567.0,Rupert Jones,100-0005,978,2015-01-18,sales_2015.xlsx,january_2015
+6789.0,Samantha Donaldson,100-0007,645,2015-01-31,sales_2015.xlsx,january_2015
+1234.0,John Smith,100-0014,123,2015-03-04,sales_2015.xlsx,march_2015
+2345.0,Mary Harrison,100-0016,456,2015-03-17,sales_2015.xlsx,march_2015
+1234.0,Widget 1,Supplier A,1100,2013-06-02,suppliers.xls,suppliers_2013
+2345.0,Widget 2,Supplier A,2300,2013-06-17,suppliers.xls,suppliers_2013
+4567.0,Widget 4,Supplier B,1300,2013-07-04,suppliers.xls,suppliers_2013
+6789.0,Widget 6,Supplier C,1175,2013-07-23,suppliers.xls,suppliers_2013
+7890.0,Widget 7,Supplier C,1200,2013-07-27,suppliers.xls,suppliers_2013
+1234.0,Widget 1,Supplier A,1100,2014-06-02,suppliers.xls,suppliers_2014
+2345.0,Widget 2,Supplier A,2300,2014-06-17,suppliers.xls,suppliers_2014
+4567.0,Widget 4,Supplier B,1300,2014-07-04,suppliers.xls,suppliers_2014
+6789.0,Widget 6,Supplier C,1175,2014-07-23,suppliers.xls,suppliers_2014
+7890.0,Widget 7,Supplier C,1200,2014-07-27,suppliers.xls,suppliers_2014
+1234.0,Widget 1,Supplier A,1100,2013-06-02,suppliers.xlsx,suppliers_2013
+2345.0,Widget 2,Supplier A,2300,2013-06-17,suppliers.xlsx,suppliers_2013
+4567.0,Widget 4,Supplier B,1300,2013-07-04,suppliers.xlsx,suppliers_2013
+6789.0,Widget 6,Supplier C,1175,2013-07-23,suppliers.xlsx,suppliers_2013
+7890.0,Widget 7,Supplier C,1200,2013-07-27,suppliers.xlsx,suppliers_2013
+1234.0,Widget 1,Supplier A,1100,2014-06-02,suppliers.xlsx,suppliers_2014
+2345.0,Widget 2,Supplier A,2300,2014-06-17,suppliers.xlsx,suppliers_2014
+4567.0,Widget 4,Supplier B,1300,2014-07-04,suppliers.xlsx,suppliers_2014
+6789.0,Widget 6,Supplier C,1175,2014-07-23,suppliers.xlsx,suppliers_2014
+7890.0,Widget 7,Supplier C,1200,2014-07-27,suppliers.xlsx,suppliers_2014
+1234,Widget 1,Supplier A,1100,6/2/2012,suppliers_2012.csv
+2345,Widget 2,Supplier A,2300,6/17/2012,suppliers_2012.csv
+4567,Widget 4,Supplier B,1300,7/4/2012,suppliers_2012.csv
+6789,Widget 6,Supplier C,1175,7/23/2012,suppliers_2012.csv
+7890,Widget 7,Supplier C,1200,7/27/2012,suppliers_2012.csv
+1234.0,Widget 1,Supplier A,1100,2013-06-02,suppliers.xls,suppliers_2013
+2345.0,Widget 2,Supplier A,2300,2013-06-17,suppliers.xls,suppliers_2013
+4567.0,Widget 4,Supplier B,1300,2013-07-04,suppliers.xls,suppliers_2013
+6789.0,Widget 6,Supplier C,1175,2013-07-23,suppliers.xls,suppliers_2013
+7890.0,Widget 7,Supplier C,1200,2013-07-27,suppliers.xls,suppliers_2013
+1234.0,Widget 1,Supplier A,1100,2014-06-02,suppliers.xls,suppliers_2014
+2345.0,Widget 2,Supplier A,2300,2014-06-17,suppliers.xls,suppliers_2014
+4567.0,Widget 4,Supplier B,1300,2014-07-04,suppliers.xls,suppliers_2014
+6789.0,Widget 6,Supplier C,1175,2014-07-23,suppliers.xls,suppliers_2014
+7890.0,Widget 7,Supplier C,1200,2014-07-27,suppliers.xls,suppliers_2014
+1234.0,Widget 1,Supplier A,1100,2013-06-02,suppliers.xlsx,suppliers_2013
+2345.0,Widget 2,Supplier A,2300,2013-06-17,suppliers.xlsx,suppliers_2013
+4567.0,Widget 4,Supplier B,1300,2013-07-04,suppliers.xlsx,suppliers_2013
+6789.0,Widget 6,Supplier C,1175,2013-07-23,suppliers.xlsx,suppliers_2013
+7890.0,Widget 7,Supplier C,1200,2013-07-27,suppliers.xlsx,suppliers_2013
+1234.0,Widget 1,Supplier A,1100,2014-06-02,suppliers.xlsx,suppliers_2014
+2345.0,Widget 2,Supplier A,2300,2014-06-17,suppliers.xlsx,suppliers_2014
+4567.0,Widget 4,Supplier B,1300,2014-07-04,suppliers.xlsx,suppliers_2014
+6789.0,Widget 6,Supplier C,1175,2014-07-23,suppliers.xlsx,suppliers_2014
+7890.0,Widget 7,Supplier C,1200,2014-07-27,suppliers.xlsx,suppliers_2014
+1234,Widget 1,Supplier A,1100,6/2/2012,suppliers_2012.csv
+2345,Widget 2,Supplier A,2300,6/17/2012,suppliers_2012.csv
+4567,Widget 4,Supplier B,1300,7/4/2012,suppliers_2012.csv
+6789,Widget 6,Supplier C,1175,7/23/2012,suppliers_2012.csv
+7890,Widget 7,Supplier C,1200,7/27/2012,suppliers_2012.csv
